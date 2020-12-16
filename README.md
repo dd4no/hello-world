@@ -5,7 +5,6 @@
 :airplane:
 ~~I don't want to say this~~
 I'm finally doing what I *should* have been doing all my life.
-:console:
 
 ***Coding is Fun!***
 
@@ -18,4 +17,4 @@ a block
 of it
 here
 ```
-All from
+
