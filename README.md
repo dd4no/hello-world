@@ -1,5 +1,17 @@
 # hello-world
-Gitting started
+## Gitting started
 
-Hi.  My name is Dave.
-I'm finally doing what I should have been doing all my life.
+**Hi.  My name is Dave.**<br>
+:airplane::guitar::computer:
+
+> Back to the beginning!<br>
+    _Inigo Montoya_
+
+Testing some `code here`...
+```
+...and 
+a block
+of it
+here
+```
+
