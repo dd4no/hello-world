@@ -1,6 +1,8 @@
 # hello-world
 ## Gitting started
 
+>Odds and Ends for practice and fun
+
 **Hi.  My name is Dave.**<br>
 :airplane::guitar::computer:
 
